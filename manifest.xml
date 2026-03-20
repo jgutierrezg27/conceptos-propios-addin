@@ -6,7 +6,7 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="CONCEPTOS PROPIOS"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-addin/assets/icon-32.png"/>
+  <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-addin/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-addin/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-addin/help"/>
   <AppDomains>
